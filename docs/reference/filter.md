@@ -42,7 +42,7 @@ Used with the `STORES` variable.
 | Adorama | US | `adorama`|
 | Akinformatica | IT | `akinformatica`|
 | Allneeds | AU | `allneeds`|
-| Alternate | DE | `alternate`|
+| Alternate | DE | `alternate-de`|
 | Alternate | NL | `alternate-nl`|
 | Amazon | US | `amazon`|
 | Amazon | CA | `amazon-ca`|
@@ -70,6 +70,7 @@ Used with the `STORES` variable.
 | ARLT | DE | `arlt`|
 | ASUS | US | `asus` |
 | ASUS | DE | `asus-de` |
+| ASUS | ES | `asus-es` |
 | AWD-IT | UK | `awd` |
 | Azerty | NL | `azerty`|
 | B&H | US | `bandh`|
@@ -97,9 +98,9 @@ Used with the `STORES` variable.
 | DComp | AU | `dcomp`|
 | Drako | IT | `drako` |
 | DustinHome | NO | `dustinhome-no` |
-| EBGames | CA | `ebgames`|
 | eBuyer | UK | `ebuyer`|
 | El Corte Inglés | ES | `elcorteingles`|
+| Eletronicamente | ES | `eletronicamente`|
 | Elkjop | NO | `elkjop`|
 | ePrice | IT | `eprice`|
 | Equippr | DE | `equippr`|
@@ -109,10 +110,13 @@ Used with the `STORES` variable.
 | EVGA | US | `evga`|
 | EVGA | EU | `evga-eu`|
 | Expert | DE | `expert`|
+| Extremmedia | ES | `extremmedia`|
 | Futurex | DE | `futurex`|
 | Galaxus | DE | `galaxus`|
+| Game | ES | `game-es`|
 | Game | UK | `game`|
 | Gamestop | US | `gamestop`|
+| Gamestop | CA | `gamestop-ca`|
 | Gamestop | DE | `gamestop-de`|
 | Gamestop | IE | `gamestop-ie`|
 | Gamestop | IT | `gamestop-it`|
@@ -126,6 +130,8 @@ Used with the `STORES` variable.
 | Komplett | NO | `komplett-no`|
 | Landmark Computers | AU |  `landmark-computers`|
 | Ldlc | FR |  `ldlc`|
+| Ldlc | ES |  `ldlc-es`|
+| Ldlc | IT |  `ldlc-it`|
 | Mediamarkt | DE | `mediamarkt`|
 | Mediamarkt | AT | `mediamarkt-at`|
 | Medimax | DE | `medimax`|
@@ -138,6 +144,7 @@ Used with the `STORES` variable.
 | MSY | AU |  `msy`|
 | Multicom | NO |  `multicom`|
 | Mwave | AU | `mwave`|
+| Neobyte | ES | `neobyte`|
 | Netonnet | NO | `netonnet-no`|
 | Newegg | US | `newegg`|
 | Newegg | CA | `newegg-ca`|
@@ -149,6 +156,7 @@ Used with the `STORES` variable.
 | Nvidia | EU/UK | [See below](#nvidia-store-reference) |
 | Office Depot | US | `officedepot`|
 | Ollo | IT | `ollo`|
+| Opirata | ES | `opirata`|
 | Otto | DE | `otto`|
 | Overclockers | UK | `overclockers`|
 | PBTech | AU |  `pbtech`|
@@ -170,6 +178,7 @@ Used with the `STORES` variable.
 | Scan | UK | `scan`|
 | Scorptec | AU | `scorptec`|
 | ShopTo | UK | `shopto`|
+| Siabyte | ES | `siabyte`|
 | Smyths Toys | UK | `smythstoys`|
 | Smyths Toys | IE | `smythstoys-ie`|
 | Spielegrotte | DE | `spielegrotte`|
@@ -179,6 +188,7 @@ Used with the `STORES` variable.
 | TheWarehouse | NZ | `thewarehouse`|
 | TopAchat | GR | `topachat`|
 | Toys R Us | US | `toysrus` |
+| Ultimainformatica | ES | `ultimainformatica`|
 | Umart | AU | `umart`|
 | Unieuro | IT | `unieuro`|
 | Very | UK | `very`|
