@@ -228,6 +228,7 @@ export type Model =
   | 'xlr8 epic x'
   | 'xlr8 gaming'
   | 'xlr8 gaming uprising epic x'
+  | 'xlr8 gaming verto'
   | 'xlr8 revel'
   | 'xlr8 revel epic x'
   | 'xlr8 uprising'

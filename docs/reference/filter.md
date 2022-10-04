@@ -238,7 +238,7 @@ Used with the `SHOW_ONLY_BRANDS` and `SHOW_ONLY_MODELS` variables.
 | `msi` | `gaming x trio`, `suprim`, `suprim liquid x`, `suprim x`, `ventus 2x oc`, `ventus 3x`, `ventus 3x oc` |
 | `nvidia` | `founders edition` |
 | `palit` | `gamerock oc`, `gaming pro`, `gaming pro oc` |
-| `pny` | `dual fan`, `xlr8 epic x`, `xlr8 revel`, `xlr8 uprising` |
+| `pny` | `dual fan`, `xlr8 epic x`, `xlr8 gaming`,  `xlr8 gaming uprising epic x`, `xlr8 gaming verto`, `xlr8 revel`, `xlr8 revel epic x`, `xlr8 uprising` |
 | `sony` | `ps5 console`, `ps5 digital` |
 | `xfx` | `merc`, `amd reference` |
 | `zotac` | `amp holo`, `amp extreme holo`, `amp white`, `trinity`, `trinity oc`, `twin edge`, `twin edge oc`, `twin edge oc white` |
